@@ -5,8 +5,8 @@ Extension to document ("dump") the installed Basic Libraries/modules to a Writer
 This version is compatible to LibreOffice 5
 
 ## Installation instructions 
-Download OXT file from Releases page and install with Tools>Extension Manager>Add.
-This will install a Library "BTL2" in your Macro installation.
+Download OXT file from Releases page and install with **Tools>Extension Manager>Add**.
+This will install a Library "BTL2" in your (personal) Macro installation.
 
 ## Run the Extension 
 Run "BasicTextListe2" from module "BTL2" within library "BTL2".
