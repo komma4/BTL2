@@ -1,7 +1,7 @@
 # BTL2
 BTL2 - BasicTextList2  version 4.x  for LibreOffice 5
 
-Extension to document ("dump") the installed Basic Libraries(modules to a Writer document.
+Extension to document ("dump") the installed Basic Libraries/modules to a Writer document.
 This version is compatible to LibreOffice 5
 
 ##Installation instructions
